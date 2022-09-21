@@ -234,7 +234,7 @@ section{
 
 .testimonials
 {
-    background-image: url('../images/background.jpg');
+    background: url('../images/background.jpg');
     background-size: cover;
 }
 
